@@ -1,0 +1,6 @@
+.prof-cont {
+    background-image: url('../pictures/bob.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 300px;
+}
