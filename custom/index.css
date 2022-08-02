@@ -7,3 +7,6 @@ img {
 * a {
     text-decoration: none;
 }
+.svg img {
+    width: 20px;
+}
